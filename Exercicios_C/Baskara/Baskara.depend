@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675283648 source:c:\users\dione\desktop\algoritmos e lógica de programação\linguagem c\exercicios_c\baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
